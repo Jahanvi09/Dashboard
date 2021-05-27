@@ -15,4 +15,4 @@ How to use : download the code and save it in the same folder and then click on 
 
 You may open it on your any device as it is a responsive website - laptop,phone or desktop.
 
-This is the web page: 
+Visit my web page: 
