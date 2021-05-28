@@ -19,3 +19,8 @@ I have deployed my page you can visit my web page here: https://dashboard090.her
 
 
 ![dashimg](https://user-images.githubusercontent.com/53164740/119967258-c76be200-bfc9-11eb-9ef3-ccf51221012a.PNG)
+
+![dashimg2](https://user-images.githubusercontent.com/53164740/119967624-2d586980-bfca-11eb-888e-ec5ca04f4fcd.PNG)
+![dashimg3](https://user-images.githubusercontent.com/53164740/119967634-30ebf080-bfca-11eb-9bef-7e5ba5ceef8e.PNG)
+
+
