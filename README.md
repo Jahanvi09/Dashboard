@@ -16,3 +16,6 @@ How to use : download the code and save it in the same folder and then click on 
 You may open it on your any device as it is a responsive website - laptop,phone or desktop.
 
 I have deployed my page you can visit my web page here: https://dashboard090.herokuapp.com/
+
+
+https://user-images.githubusercontent.com/53164740/119967258-c76be200-bfc9-11eb-9ef3-ccf51221012a.PNG
