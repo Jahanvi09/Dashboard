@@ -15,4 +15,4 @@ How to use : download the code and save it in the same folder and then click on 
 
 You may open it on your any device as it is a responsive website - laptop,phone or desktop.
 
-Visit my web page: file:///E:/html/basics/dashboard.html
+I have deployed my page you can visit my web page here: https://dashboard090.herokuapp.com/
