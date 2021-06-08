@@ -1,6 +1,5 @@
 # Dashboard
 
-This repo contains the project of  C3-Experiential-Learning-Private-Limited.
 
 In this project I have made an admin dashboard which can be used for a lerarning purposes. It is a responsive website where students can learn ,see their progress, courses, tasks to do, upcoming classes, homework progress, analytical report,leaderboard. 
 
@@ -15,7 +14,7 @@ How to use : download the code and save it in the same folder and then click on 
 
 You may open it on your any device as it is a responsive website - laptop,phone or desktop.
 
-I have deployed my page you can visit my web page here: https://dashboard090.herokuapp.com/
+You can visit my web page here: https://dashboard090.herokuapp.com/
 
 
 ![dashimg](https://user-images.githubusercontent.com/53164740/119967258-c76be200-bfc9-11eb-9ef3-ccf51221012a.PNG)
